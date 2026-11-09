@@ -1,0 +1,8 @@
+{
+  "name": "Remix nurarihayon — Humanitarian \u0026 Advocacy Visual Journalism",
+  "description": "Independent humanitarian \u0026 advocacy creative design studio by nurarihayon. Documentary photojournalism, editorial posters, and pro-bono campaign graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
